@@ -1,0 +1,1 @@
+#-root=D:\code1\Prototypical-Networks-for-Few-shot-Learning-PyTorch-master\Prototypical-Networks-for-Few-shot-Learning-PyTorch-master\dataset2 -cTr=5 -nqVa=5 --cuda -lr=0.01
